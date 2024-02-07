@@ -116,4 +116,10 @@ We map a strategy, build a solution or elevate your product experience with focu
     </td>
 </tr>
 </table> 
+<hr>
+<a href="https://github.com/xperture/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xperture&show_icons=true&theme=radical&line_height=27" alt="xperture's github stats" />
+</a>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperture&" alt="xperture" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xperture&theme=gotham)](https://git.io/streak-stats)
